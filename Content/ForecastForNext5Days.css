@@ -1,0 +1,16 @@
+﻿.day-cell{
+        cursor:pointer;
+        
+
+    }
+    
+    #dayDetails{
+    width:120%; margin-top: 5%;
+    
+    
+    }
+    
+    .day-cell.active {
+        background: #ea0000;
+        color: black;
+    }

@@ -1,0 +1,58 @@
+﻿@model List<AplikacijaVremenskePrognoze.Models.DayTemperature>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+@Scripts.Render("~/bundles/ForecastForNext5Days")
+@Scripts.Render("~/bundles/ActiveButton")
+@{
+    ViewBag.Title = "Forecast for next 5 days";
+
+}
+
+<head>
+    <link href="~/Content/ForecastForNext5Days.css" rel="stylesheet" type="text/css" />
+</head>
+
+<h2>@ViewBag.CityName, forecast for next 5 days </h2>
+
+
+<table class=" table table-condensed" style="width: 70%; ">
+    <thead>
+        <tr>
+            @foreach (var item in Model)
+            {
+
+                <th scope="col" data-day="@item.DayOfWeek">@item.DayOfWeek</th>
+
+            }
+        </tr>
+
+    </thead>
+    <tbody>
+        <tr>
+            @foreach (var item in Model)
+            {
+                <td class="day-cell " data-day="@item.DayOfWeek" data-city="@ViewBag.CityName" onClick="jQuery(this).toggleClass('active')">
+                    <img src="https://openweathermap.org/img/wn/@(item.AvgIcon).png" alt="Weather Icon" class="glyphicon-align-center" /> <br />
+                    <i>@item.Description <br /></i>
+                    <b>@item.AvgTemperature°C</b>
+                </td>
+            }
+        </tr>
+
+
+    </tbody>
+</table>
+
+<div id="dayDetails">
+    @Html.Partial("_DayDetails", new List<AplikacijaVremenskePrognoze.Models.ForecastItem>())
+</div>
+<script>
+    var dayDetailsUrl = '@Url.Action("DayDetails", "Weather")';
+</script>
+
+<a href="@Url.Action("WeatherDetails", "Weather", new { cityName = ViewBag.CityName })" class="btn btn-primary">Back</a>
+
+
+
+
+
+

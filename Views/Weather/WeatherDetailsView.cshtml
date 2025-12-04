@@ -1,0 +1,100 @@
+﻿@model AplikacijaVremenskePrognoze.Models.WeatherData
+@{
+    ViewBag.Title = "Weather Details";
+
+}
+<head>
+    <link href="~/Content/WeatherDetails.css" rel="stylesheet" type="text/css" />
+</head>
+<h2>@Model.Name details</h2>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+    <div style="width: 35%;">
+        <table class="table" style="width:100%">
+            <tbody>
+
+
+                <tr>
+                    <td><strong>Weather description</strong></td>
+                    <td>@Model.Weather[0].Description </td>
+                </tr>
+
+                <tr>
+                    <td><strong>Longitude</strong></td>
+                    <td>@Model.Coord.Lon </td>
+                </tr>
+
+                <tr>
+                    <td><strong>Latitude</strong></td>
+                    <td>@Model.Coord.Lat</td>
+                </tr>
+
+
+                <tr>
+                    <td><strong>Pressure</strong></td>
+                    <td>@Model.Main.Pressure hPa</td>
+                </tr>
+
+                <tr>
+                    <td><strong>Humidity</strong></td>
+                    <td>@Model.Main.Humidity%</td>
+                </tr>
+
+                <tr>
+                    <td><strong>Visibillity</strong></td>
+                    <td>@Model.Visibility </td>
+                </tr>
+
+                <tr>
+
+                    <td><strong>Wind Speed</strong></td>
+                    <td>@Model.Wind.Speed m/s</td>
+                </tr>
+
+                <tr>
+                    <td><strong>Cloudiness</strong></td>
+                    <td>@Model.Clouds.All %</td>
+                </tr>
+
+                <tr>
+
+                    <td><strong>Local time</strong></td>
+                    <td>@Model.Dt</td>
+                </tr>
+
+                <tr>
+
+                    <td><strong>Country</strong></td>
+                    <td>@Model.Sys.Country</td>
+                </tr>
+
+                <tr>
+                    <td><strong>Sunrise</strong></td>
+                    <td>@DateTimeOffset.FromUnixTimeSeconds(Model.Sys.Sunrise).LocalDateTime.ToString("HH:mm")</td>
+                </tr>
+                <tr>
+                    <td><strong>Sunset</strong></td>
+                    <td>@DateTimeOffset.FromUnixTimeSeconds(Model.Sys.Sunset).LocalDateTime.ToString("HH:mm")</td>
+                </tr>
+
+                <tr>
+                    <td><strong>Time Zone</strong></td>
+                    <td>@(((@Model.Timezone / 3600).ToString()) + " h")</td>
+
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+    <div style="width: 50%; text-align: center;">
+        <div>
+            <img src="@( "http://openweathermap.org/img/wn/" + Model.Weather[0].Icon + "@4x.png" )" alt="Weather Icon" class="weather-icon" />
+            <h6>@Model.Weather[0].Main</h6>
+            <h3 class="temperature">T: @Math.Round(Model.Main.Temp)°C</h3>
+            <h5 style="display: inline-block; margin-right: 10px;"> L: @Math.Round(Model.Main.Temp_Min)°C</h5>
+            <h5 style="display: inline-block;"> H: @Math.Round(Model.Main.Temp_Max)°C</h5>
+            <h4><i>Feels like:</i> @Math.Round(Model.Main.Feels_Like)°C</h4>
+        </div>
+        <a href="@Url.Action("ForecastForNext5Days", "Weather", new { city = Model.Name })" class="btn btn-primary">View forecast for next 5 days</a>
+    </div>
+</div>
+<a href="@Url.Action("Index", "Weather")" class="btn btn-primary">Back</a>

@@ -1,0 +1,56 @@
+﻿
+@model List<AplikacijaVremenskePrognoze.Models.ForecastItem>
+<h2>@ViewBag.FormattedDate</h2>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class=" table" style="width: 71%;">
+
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th></th>
+                <th>Temperature </th>
+                <th>Feels Like </th>
+                <th>Min Temp </th>
+                <th>Max Temp </th>
+                <th>Pressure </th>
+                <th>Humidity </th>
+                <th>Description</th>
+                <th>Wind Speed </th>
+                <th>Visibility </th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+
+                        <b> @DateTime.ParseExact(item.Dt_txt, "yyyy-MM-dd HH:mm:ss", null).ToString("HH:mm") </b>
+                    </td>
+
+                    <td><img src="https://openweathermap.org/img/wn/@(item.Weather[0].Icon).png" alt="Weather Icon" class="glyphicon-align-center" /> </td>
+                    <td>@(item.Main.Temp)°C</td>
+                    <td>@(item.Main.Feels_Like)°C</td>
+                    <td>@(item.Main.Temp_Min)°C</td>
+                    <td>@(item.Main.Temp_Max)°C</td>
+                    <td>@(item.Main.Pressure)hPa</td>
+                    <td>@(item.Main.Humidity)%</td>
+                    <td>
+                        @foreach (var weather in item.Weather)
+                    {
+                            @weather.Description
+                        }
+                    </td>
+                    <td>@(item.Wind.Speed)m/s</td>
+                    <td>@(item.Visibility)m</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+

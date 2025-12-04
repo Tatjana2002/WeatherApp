@@ -1,0 +1,42 @@
+﻿@model List<AplikacijaVremenskePrognoze.Models.WeatherData>
+@{
+    ViewBag.Title = "WeatherList";
+
+}
+<head>
+    <link href="~/Content/WeatherList.css" rel="stylesheet" type="text/css" />
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    @Scripts.Render("~/bundles/Refresh")
+
+</head>
+
+<h2>Weather forecast for the main cities</h2>
+
+
+
+<div class="cities">
+    @foreach (var weather in Model)
+    {
+        <a href="@Url.Action("WeatherDetails", "Weather", new { cityName = weather.Name })" style="display: block; text-decoration: dotted; color: inherit; " id="weather-link">
+            <div class="weather-box">
+                <p>
+                    <b>@weather.Name</b>
+                </p>
+                <div>
+                    <b>@(Math.Round(weather.Main.Temp))°C</b>
+                    <img src="@( "http://openweathermap.org/img/wn/" + weather.Weather[0].Icon + ".png" )" alt="@weather.Weather[0].Description" />
+                </div>
+            </div>
+        </a>
+    }
+</div>
+
+<button id="refreshBtn" style="margin-top: 10px; padding: 8px 16px; font-size: 16px; cursor: pointer;">
+    Refresh
+</button>
+
+
+
+
+

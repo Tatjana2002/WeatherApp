@@ -1,0 +1,33 @@
+﻿@model AplikacijaVremenskePrognoze.Models.WeatherData
+
+@{
+    ViewBag.Title = "Weather";
+
+}
+
+<h2>Weather forecast for @Model.Name</h2>
+@if (Model.Weather != null && Model.Weather.Any())
+{
+    foreach (var condition in Model.Weather)
+    {
+        <div>
+            <img src="@( "http://openweathermap.org/img/wn/" + condition.Icon + ".png" )" alt="@condition.Description" />
+            <h3>@condition.Main</h3>
+            <p>@condition.Description</p>
+        </div>
+
+    }
+    <p>Temp: @(Math.Round(Model.Main.Temp))°C</p>
+    <p>Temp max: @(Math.Round(Model.Main.Temp_Max))°C</p>
+    <p>Temp min: @(Math.Round(Model.Main.Temp_Min))°C</p>
+}
+else
+{
+    <p>Nema dostupnih podataka o vremenu</p>
+}
+
+
+
+
+
+

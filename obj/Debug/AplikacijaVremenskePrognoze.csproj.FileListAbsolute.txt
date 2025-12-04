@@ -1,0 +1,241 @@
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\csc.exe
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\vbc.exe
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\VBCSCompiler.exe
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\AplikacijaVremenskePrognoze.dll.config
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\AplikacijaVremenskePrognoze.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\AplikacijaVremenskePrognoze.pdb
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Antlr3.Runtime.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.SqlServer.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Newtonsoft.Json.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Owin.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Helpers.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Mvc.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Optimization.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Razor.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Razor.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\WebGrease.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Helpers.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Mvc.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Optimization.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Razor.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Razor.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Antlr3.Runtime.pdb
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Newtonsoft.Json.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.SqlServer.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\AplikacijaVremenskePrognoze.csprojResolveAssemblyReference.cache
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\AplikacijaVremenskePrognoze.dll
+C:\Users\student8\Documents\202502 SW Tatjana Djukic\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\AplikacijaVremenskePrognoze.pdb
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\csc.exe
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\vbc.exe
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\VBCSCompiler.exe
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\AplikacijaVremenskePrognoze.dll.config
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\AplikacijaVremenskePrognoze.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\AplikacijaVremenskePrognoze.pdb
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Antlr3.Runtime.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.SqlServer.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Newtonsoft.Json.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Owin.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Helpers.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Mvc.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Optimization.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Razor.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Razor.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\WebGrease.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Helpers.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Mvc.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Optimization.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Razor.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Razor.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Antlr3.Runtime.pdb
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Newtonsoft.Json.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.SqlServer.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\AplikacijaVremenskePrognoze.csproj.AssemblyReference.cache
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\AplikacijaVremenskePrognoze.csproj.CoreCompileInputs.cache
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\Aplikaci.11580E70.Up2Date
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\AplikacijaVremenskePrognoze.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\AplikacijaVremenskePrognoze.pdb
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Npgsql.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Buffers.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Memory.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Numerics.Vectors.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.ValueTuple.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Npgsql.pdb
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Npgsql.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Buffers.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Memory.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Numerics.Vectors.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.ValueTuple.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\AplikacijaVremenskePrognoze.csproj.AssemblyReference.cache
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\AplikacijaVremenskePrognoze.csproj.CoreCompileInputs.cache
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\AplikacijaVremenskePrognoze.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\AplikacijaVremenskePrognoze.pdb
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\csc.exe
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\vbc.exe
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\VBCSCompiler.exe
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\AplikacijaVremenskePrognoze.dll.config
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\AplikacijaVremenskePrognoze.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\AplikacijaVremenskePrognoze.pdb
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Antlr3.Runtime.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.SqlServer.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Newtonsoft.Json.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Npgsql.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Owin.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Buffers.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Memory.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Numerics.Vectors.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.ValueTuple.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Helpers.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Mvc.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Optimization.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Razor.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Razor.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\WebGrease.dll
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Npgsql.pdb
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Npgsql.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Buffers.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Memory.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Numerics.Vectors.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.ValueTuple.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Helpers.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Mvc.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Optimization.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.Razor.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\System.Web.WebPages.Razor.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Antlr3.Runtime.pdb
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Newtonsoft.Json.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\EntityFramework.SqlServer.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Envy\OneDrive\Desktop\Diplomski\AplikacijaVremenskePrognozeAnziped\AplikacijaVremenskePrognoze\AplikacijaVremenskePrognoze\obj\Debug\Aplikaci.11580E70.Up2Date
